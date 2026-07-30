@@ -61,16 +61,33 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1f1f1f)
 
 </div>
+
 ## 🏆 Professional Certifications
 
-<p align="center">
+<div align="center">
 
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/GITUB%20FOUNDATION.pdf" width="180"/>
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/ai%20essctial%20.png" width="180"/>
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf" width="180"/>
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf" width="180"/>
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20pandas.pdf" width="180"/>
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20matplotlib.pdf" width="180"/>
-<img src="https://github.com/Omajamshed/Omajamshed/blob/main/intro%20sql%20certificate.pdf" width="180"/>
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/GITUB%20FOUNDATION.pdf">
+<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br><br></p>
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/ai%20essctial%20.png">
+<img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf">
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20pandas.pdf">
+<img src="https://img.shields.io/badge/Pandas-Certificate-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20matplotlib.pdf">
+<img src="https://img.shields.io/badge/Matplotlib-Certificate-11557C?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/intro%20sql%20certificate.pdf">
+<img src="https://img.shields.io/badge/SQL-Certificate-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+</div>
