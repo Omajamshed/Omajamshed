@@ -64,18 +64,20 @@
 
 ## 🏆 Professional Certifications
 
-<div align="center">
+<p align="center">
 
-[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/GITUB%20FOUNDATION.pdf)
+<img src="certifications/Google%20badge.jpeg" width="180"/>
+<img src="certifications/Google%20softskill%20program.jpeg" width="180"/>
+<img src="certifications/ISPR%20certificate.jpeg" width="180"/>
+<img src="certifications/SMIT%20HAchethon.jpeg" width="180"/>
+<img src="certifications/SMIT%20datascience.jpeg" width="180"/>
 
-[![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/ai%20essctial%20.png)
+<br>
 
-[![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf)
+<img src="certifications/ai%20essctial%20.png" width="180"/>
+<img src="certifications/data%20manipulation%20with%20pandas.png" width="180"/>
+<img src="certifications/github%20foundation.png" width="180"/>
+<img src="certifications/prompt%20eng%20.png" width="180"/>
+<img src="certifications/sql.png" width="180"/>
 
-[![Pandas](https://img.shields.io/badge/Pandas-Certificate-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20pandas.pdf)
-
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Certificate-11557C?style=for-the-badge)](https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20matplotlib.pdf)
-
-[![SQL](https://img.shields.io/badge/SQL-Certificate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/intro%20sql%20certificate.pdf)
-
-</div>
+</p>
