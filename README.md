@@ -64,20 +64,20 @@
 
 ## 🏆 Professional Certifications
 
-<p align="center">
+<table align="center">
+<tr>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/Google%20badge.jpeg?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/Google%20softskill%20program.jpeg?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/ISPR%20certificate.jpeg?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/SMIT%20HAchethon.jpeg?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/SMIT%20datascience.jpeg?raw=true" width="150"></td>
+</tr>
 
-<img src="certifications/Google%20badge.jpeg" width="180"/>
-<img src="certifications/Google%20softskill%20program.jpeg" width="180"/>
-<img src="certifications/ISPR%20certificate.jpeg" width="180"/>
-<img src="certifications/SMIT%20HAchethon.jpeg" width="180"/>
-<img src="certifications/SMIT%20datascience.jpeg" width="180"/>
-
-<br>
-
-<img src="certifications/ai%20essctial%20.png" width="180"/>
-<img src="certifications/data%20manipulation%20with%20pandas.png" width="180"/>
-<img src="certifications/github%20foundation.png" width="180"/>
-<img src="certifications/prompt%20eng%20.png" width="180"/>
-<img src="certifications/sql.png" width="180"/>
-
-</p>
+<tr>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/ai%20essctial%20.png?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/data%20manipulation%20with%20pandas.png?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/github%20foundation.png?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/prompt%20eng%20.png?raw=true" width="150"></td>
+<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/sql.png?raw=true" width="150"></td>
+</tr>
+</table>
