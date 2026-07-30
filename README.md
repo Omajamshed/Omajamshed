@@ -65,13 +65,12 @@
 
 <p align="center">
 
-<img src="" width="180"/>
-<img src="" width="180"/>
-<img src="" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/GITUB%20FOUNDATION.pdf" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/ai%20essctial%20.png" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20pandas.pdf" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20matplotlib.pdf" width="180"/>
+<img src="https://github.com/Omajamshed/Omajamshed/blob/main/intro%20sql%20certificate.pdf" width="180"/>
 
-<br><br>
-
-<img src="assets/certificates/datacamp.png" width="180"/>
-<img src="assets/certificates/uet-genai.png" width="180"/>
-
-</p>
+<br><br></p>
