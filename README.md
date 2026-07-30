@@ -64,20 +64,46 @@
 
 ## 🏆 Professional Certifications
 
-<table align="center">
-<tr>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/Google%20badge.jpeg?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/Google%20softskill%20program.jpeg?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/ISPR%20certificate.jpeg?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/SMIT%20HAchethon.jpeg?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/SMIT%20datascience.jpeg?raw=true" width="150"></td>
-</tr>
+<div align="center">
 
-<tr>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/ai%20essctial%20.png?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/data%20manipulation%20with%20pandas.png?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/github%20foundation.png?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/prompt%20eng%20.png?raw=true" width="150"></td>
-<td><img src="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/sql.png?raw=true" width="150"></td>
-</tr>
-</table>
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/github%20foundation.png">
+<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/Google%20badge.jpeg">
+<img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/Google%20softskill%20program.jpeg">
+<img src="https://img.shields.io/badge/Google-Soft%20Skills-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/ISPR%20certificate.jpeg">
+<img src="https://img.shields.io/badge/ISPR-Winter%20Internship-005BAC?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/SMIT%20HAchethon.jpeg">
+<img src="https://img.shields.io/badge/SMIT-Hackathon-0F9D58?style=for-the-badge&logo=hackaday&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/SMIT%20datascience.jpeg">
+<img src="https://img.shields.io/badge/SMIT-Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/ai%20essctial%20.png">
+<img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/data%20manipulation%20with%20pandas.png">
+<img src="https://img.shields.io/badge/DataCamp-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/prompt%20eng%20.png">
+<img src="https://img.shields.io/badge/Prompt-Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certifications/sql.png">
+<img src="https://img.shields.io/badge/SQL-Relational%20Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+</div>
