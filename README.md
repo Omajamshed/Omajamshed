@@ -66,28 +66,16 @@
 
 <div align="center">
 
-<a href="https://github.com/Omajamshed/Omajamshed/blob/main/GITUB%20FOUNDATION.pdf">
-<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/GITUB%20FOUNDATION.pdf)
 
-<a href="https://github.com/Omajamshed/Omajamshed/blob/main/ai%20essctial%20.png">
-<img src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
+[![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/ai%20essctial%20.png)
 
-<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf">
-<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+[![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20intermediate%20python.pdf)
 
-<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20pandas.pdf">
-<img src="https://img.shields.io/badge/Pandas-Certificate-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
+[![Pandas](https://img.shields.io/badge/Pandas-Certificate-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20pandas.pdf)
 
-<a href="https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20matplotlib.pdf">
-<img src="https://img.shields.io/badge/Matplotlib-Certificate-11557C?style=for-the-badge"/>
-</a>
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Certificate-11557C?style=for-the-badge)](https://github.com/Omajamshed/Omajamshed/blob/main/certificate%20matplotlib.pdf)
 
-<a href="https://github.com/Omajamshed/Omajamshed/blob/main/intro%20sql%20certificate.pdf">
-<img src="https://img.shields.io/badge/SQL-Certificate-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
+[![SQL](https://img.shields.io/badge/SQL-Certificate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Omajamshed/Omajamshed/blob/main/intro%20sql%20certificate.pdf)
 
 </div>
