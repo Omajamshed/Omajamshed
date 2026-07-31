@@ -178,12 +178,5 @@ Build **enterprise-grade AI and Data Science solutions** that solve real-world b
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omajamshed123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omajamshed)
 
-**"Building Intelligent Solutions Through Practical AI Implementation"**
-
----
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Production%20ML-blue?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Advanced%20AI-orange?style=for-the-badge)
 
 </div>
