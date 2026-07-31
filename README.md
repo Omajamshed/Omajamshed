@@ -127,6 +127,7 @@ With a strong foundation in **Python, SQL, Machine Learning, Data Visualization,
 </a>
 
 </div>
+
 ## 📚 Continuous Learning & Professional Development
 
 I believe that exceptional AI solutions are driven by **continuous learning, hands-on experimentation, and continuous improvement**. As technology evolves rapidly, I remain committed to expanding my expertise across **Artificial Intelligence, Machine Learning, Data Science, and Backend Engineering** while adopting industry best practices for building scalable, production-ready applications.
@@ -144,13 +145,13 @@ My learning approach combines **theoretical knowledge with practical implementat
 
 ### 🚀 Professional Growth Objectives
 
-- Build **enterprise-grade AI and Data Science solutions** that solve real-world business challenges.
-- Design **scalable, maintainable, and production-ready machine learning systems**.
-- Strengthen expertise in **cloud technologies, containerization, and deployment automation**.
-- Develop robust **end-to-end data pipelines** for reliable data processing and model training.
-- Advance skills in **business intelligence, data storytelling, and decision-support systems**.
-- Contribute to **open-source projects**, collaborative development, and the AI community.
-- Stay current with **emerging technologies, research advancements, and industry best practices** to continuously enhance technical capabilities.
+Build **enterprise-grade AI and Data Science solutions** that solve real-world business challenges.
+ Design **scalable, maintainable, and production-ready machine learning systems**.
+ Strengthen expertise in **cloud technologies, containerization, and deployment automation**.
+ Develop robust **end-to-end data pipelines** for reliable data processing and model training.
+ Advance skills in **business intelligence, data storytelling, and decision-support systems**.
+ Contribute to **open-source projects**, collaborative development, and the AI community.
+ Stay current with **emerging technologies, research advancements, and industry best practices** to continuously enhance technical capabilities.
 
 
 
